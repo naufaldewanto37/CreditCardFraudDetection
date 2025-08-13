@@ -1,7 +1,7 @@
 # CreditCardFraudDetection
 This project is a machine learning-based fraud detection system for credit card transactions.It leverages data preprocessing, feature engineering, and classification models to identify potentially fraudulent transactions with high accuracy.
 
-📌 Project Overview
+## 📌 Project Overview
 
 Credit card fraud is a major concern for financial institutions and customers.This project focuses on:
 
@@ -11,7 +11,7 @@ Applying data balancing techniques to handle highly imbalanced datasets.
 
 Evaluating different classification models based on metrics such as ROC AUC, precision, and recall.
 
-📂 Dataset
+## 📂 Dataset
 
 Source: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
@@ -31,12 +31,14 @@ Legitimate: 99.83%
 
 Fraud: 0.17%
 
+## 📊 Results
+
 | Model               | Precision | Recall | F1-Score | Accuracy | ROC AUC |
 | ------------------- | --------- | ------ | -------- |--------- | ------- |
 | KNN                 | 5%       | 90%    | 100%      |   96%    |    97%  |
 | Random Forest       | 4%       | 91%    | 8%        |   97%    |    94%  |
 
-🚀 How to Run
+## 🚀 How to Run
 
 ```
 git clone https://github.com/naufaldewanto37/CreditCardFraudDetection.git
