@@ -31,10 +31,10 @@ Legitimate: 99.83%
 
 Fraud: 0.17%
 
-| Model               | Precision | Recall | F1-Score | ROC AUC |
-| ------------------- | --------- | ------ | -------- | ------- |
-| KNN                 | 5%       | 90%    | 100%      | 97%     |
-| Random Forest       | 96%       | 91%    | 8%      | 94%     |
+| Model               | Precision | Recall | F1-Score | Accuracy | ROC AUC |
+| ------------------- | --------- | ------ | -------- |--------- | ------- |
+| KNN                 | 5%       | 90%    | 100%      |   96%    |    97%  |
+| Random Forest       | 4%       | 91%    | 8%        |   97%    |    94%  |
 
 🚀 How to Run
 
